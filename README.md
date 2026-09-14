@@ -6,12 +6,12 @@
 
 </div>
 
-<!-- ===================== TYPING ===================== -->
+<!-- ===================== TYPING ANIMATION ===================== -->
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Python+Developer+%F0%9F%90%8D;Django+Developer+%F0%9F%8C%90;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Web+Developer+%F0%9F%92%BB;Building+Projects+That+Solve+Problems+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+Developer+%F0%9F%90%8D;Django+Developer+%F0%9F%8C%90;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Web+Developer+%F0%9F%92%BB;Building+Projects+That+Solve+Problems+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 </div>
@@ -22,23 +22,23 @@
 
 <div align="center">
 
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/sandeepsinghpanwar19">
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/panwarsandeepsingh19">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/panwarsandeepsingh19/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://sandeepsinghpanwar19.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </div>
 
 <br>
 
-<!-- ===================== ABOUT ===================== -->
+<!-- ===================== ABOUT ME ===================== -->
 
 ## 👨‍💻 About Me
 
@@ -49,7 +49,7 @@ Hi! I'm **Sandeepsingh Panwar**, a BCA student and aspiring software developer p
 - 🌐 Django & Web Development
 - 🤖 AI / Machine Learning Enthusiast
 - 📊 Interested in Data Analysis & Power BI
-- 💻 Building beginner-friendly but practical projects
+- 💻 Building practical projects
 - 🚀 Always learning and improving
 - 🎯 Goal: Become a skilled software developer
 
@@ -69,6 +69,8 @@ Hi! I'm **Sandeepsingh Panwar**, a BCA student and aspiring software developer p
 
 </div>
 
+<br>
+
 ### 🗄️ Database & Tools
 
 <div align="center">
@@ -77,27 +79,23 @@ Hi! I'm **Sandeepsingh Panwar**, a BCA student and aspiring software developer p
 
 </div>
 
+<br>
+
 ### 📊 Data & AI
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" />
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </div>
 
 <br>
 
-<!-- ===================== PROJECTS ===================== -->
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
 ## 🚀 Featured Projects
 
@@ -106,34 +104,40 @@ Hi! I'm **Sandeepsingh Panwar**, a BCA student and aspiring software developer p
 
 <td width="50%">
 
-### 📋 TaskFlow
+<h3>📋 TaskFlow</h3>
 
-A simple and modern task management application built with React.
+<p>A simple and modern task management application built with React.</p>
 
-**Features:**
-- ➕ Add tasks
-- ✏️ Edit tasks
-- 🗑️ Delete tasks
-- 📱 Responsive UI
-- ⚡ Simple user experience
+<b>Features:</b>
 
-**Tech:** React • JavaScript • HTML • CSS
+<ul>
+<li>➕ Add tasks</li>
+<li>✏️ Edit tasks</li>
+<li>🗑️ Delete tasks</li>
+<li>📱 Responsive UI</li>
+<li>⚡ Simple user experience</li>
+</ul>
+
+<b>Tech:</b> React • JavaScript • HTML • CSS
 
 </td>
 
 <td width="50%">
 
-### 🌦️ WeatherSense
+<h3>🌦️ WeatherSense</h3>
 
-A weather-focused project designed to provide useful weather information through a clean and simple interface.
+<p>A weather-focused project designed to provide useful weather information through a clean and simple interface.</p>
 
-**Features:**
-- 🌤️ Weather information
-- 📍 Location-based concept
-- 📊 Easy-to-understand interface
-- 🎨 Clean UI
+<b>Features:</b>
 
-**Tech:** Python • Web Technologies
+<ul>
+<li>🌤️ Weather information</li>
+<li>📍 Location-based concept</li>
+<li>📊 Easy-to-understand interface</li>
+<li>🎨 Clean UI</li>
+</ul>
+
+<b>Tech:</b> Python • Web Technologies
 
 </td>
 
@@ -143,35 +147,41 @@ A weather-focused project designed to provide useful weather information through
 
 <td width="50%">
 
-### 💼 Developer Portfolio
+<h3>💼 Developer Portfolio</h3>
 
-My personal portfolio website showcasing my skills, projects, certifications and development journey.
+<p>My personal portfolio website showcasing my skills, projects, certifications and development journey.</p>
 
-**Includes:**
-- ✨ Modern UI
-- 🎨 Dark developer theme
-- ⌨️ Typing animation
-- 📜 Certifications
-- 🚀 Projects
-- 📩 Contact section
+<b>Includes:</b>
 
-**Tech:** HTML • CSS • JavaScript
+<ul>
+<li>✨ Modern UI</li>
+<li>🎨 Dark developer theme</li>
+<li>⌨️ Typing animation</li>
+<li>📜 Certifications</li>
+<li>🚀 Projects</li>
+<li>📩 Contact section</li>
+</ul>
+
+<b>Tech:</b> HTML • CSS • JavaScript
 
 </td>
 
 <td width="50%">
 
-### 📊 Data & ML Projects
+<h3>📊 Data & ML Projects</h3>
 
-Hands-on projects and laboratory work involving Python, data analysis and machine learning.
+<p>Hands-on projects and laboratory work involving Python, data analysis and machine learning.</p>
 
-**Working with:**
-- 🐼 Pandas
-- 🔢 NumPy
-- 📈 Matplotlib
-- 🤖 Scikit-learn
-- 📊 Data visualization
-- 📐 Linear Regression
+<b>Working with:</b>
+
+<ul>
+<li>🐼 Pandas</li>
+<li>🔢 NumPy</li>
+<li>📈 Matplotlib</li>
+<li>🤖 Scikit-learn</li>
+<li>📊 Data Visualization</li>
+<li>📐 Linear Regression</li>
+</ul>
 
 </td>
 
@@ -194,7 +204,7 @@ Hands-on projects and laboratory work involving Python, data analysis and machin
 
 <br>
 
-<!-- ===================== STREAK ===================== -->
+<!-- ===================== GITHUB STREAK ===================== -->
 
 <div align="center">
 
@@ -204,7 +214,7 @@ Hands-on projects and laboratory work involving Python, data analysis and machin
 
 <br>
 
-<!-- ===================== ACTIVITY ===================== -->
+<!-- ===================== ACTIVITY GRAPH ===================== -->
 
 ## 📈 My GitHub Activity
 
@@ -222,13 +232,13 @@ Hands-on projects and laboratory work involving Python, data analysis and machin
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sandeepsinghpanwar19/sandeepsinghpanwar19/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/sandeepsinghpanwar19/sandeepsinghpanwar19/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
 <br>
 
-<!-- ===================== CURRENT FOCUS ===================== -->
+<!-- ===================== CURRENTLY LEARNING ===================== -->
 
 ## 🎯 Currently Learning
 
